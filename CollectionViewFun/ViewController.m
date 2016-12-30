@@ -18,7 +18,7 @@
 
 @implementation ViewController
 
-NSInteger items[5] = {12, 7, 9, 13, 16};
+NSInteger items[5] = {16, 9, 13, 15, 18};
 
 - (void)viewDidLoad {
 	[super viewDidLoad];
